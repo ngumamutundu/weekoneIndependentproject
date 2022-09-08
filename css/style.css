@@ -5,14 +5,15 @@ h1 {
   text-decoration: aqua;
   font-size: x-large;
   text-decoration: underline;
-  font-style: italic;
+  font-style: italic;text-transform: uppercase;font-weight: bold;
 }
 h2 {
   font-family: "Times New Roman", Times, serif;
   color: aquamarine;
   font-size: medium;
   text-decoration: aqua;
-  font-style: italic;text-align: center;
+  font-style: italic;
+  text-align: center;
 }
 p {
   font-family: Arial, Helvetica, sans-serif;
@@ -20,20 +21,20 @@ p {
   font-style: italic;
   text-align: center;
 }
+li {
+  text-align: center;
+  color: chartreuse;
+  font-style: italic;
+}
+img {
+  margin: 1px auto;
+  display: block;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+  color: greenyellow;
+}
 div{
-    text-align: ;
-}
-li{
-    text-align: center;color: lime;
-}
-img{
-    margin: 1px auto;
-    display: block;
-}
-ol{
-    text-align: center;
-}
-ul{
-    display: table;
-    margin: 0 auto;
+    color: lawngreen;
 }
