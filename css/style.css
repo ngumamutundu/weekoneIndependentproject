@@ -1,9 +1,16 @@
-h1{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: aquamarine;text-align: center;text-decoration: aqua;font-size: x-large;
-    text-decoration: underline;font-style: italic;
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: aquamarine;
+  text-align: center;
+  text-decoration: aqua;
+  font-size: x-large;
+  text-decoration: underline;
+  font-style: italic;
 }
-h2{
-    font-family: 'Times New Roman', Times, serif;color: aquamarine;font-size: medium;text-decoration: aqua;
-    font-style: italic;
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: aquamarine;
+  font-size: medium;
+  text-decoration: aqua;
+  font-style: italic;
 }
