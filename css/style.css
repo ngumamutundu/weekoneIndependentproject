@@ -24,8 +24,11 @@ div{
     text-align: ;
 }
 li{
-    text-align: center;
+    text-align: center;color: lime;
 }
 img{
     align-items: center;
+}
+ol{
+    text-align: center;
 }
