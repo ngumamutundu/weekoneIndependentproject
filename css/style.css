@@ -27,7 +27,8 @@ li{
     text-align: center;color: lime;
 }
 img{
-    align-items: center;
+    margin: 1px auto;
+    display: block;
 }
 ol{
     text-align: center;
