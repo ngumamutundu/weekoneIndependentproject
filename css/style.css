@@ -41,6 +41,8 @@ ul {
   display: table;
   margin: 0 auto;
   color: greenyellow;
+  display:contents;
+  margin: 0 auto;
 }
 div {
   color: lawngreen;
