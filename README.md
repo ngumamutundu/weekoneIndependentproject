@@ -51,7 +51,7 @@ The coding language used so far id html and css.
 
  
 
-For support you can email me at mutundu.nguma@gail.com or call +254725927461, I will appreciate if you can help me do much better in coding.
+For support you can email me at mutundu.nguma@gmail.com or call +254725927461, I will appreciate if you can help me do much better in coding.
 
  
 
