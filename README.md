@@ -20,11 +20,11 @@
 
  
 
-- This is very easyfor everyone.
+- Git clone https://github.com/ngumamutundu/weekoneIndependentproject.git
 
-- Allows you to know more about myself(Pius Nguma Mutundu).
+- Open the cloned code on vs code.
 
-- Shows you the progress of my learning to date.
+- Then run with live server.
 
 
 - Use the hyperlink provided to see my website and the coding used in this project.
@@ -34,25 +34,24 @@
 ## Known Bugs
 
  
-
 - There is no bug known to me so far, Kindly let me know incase you notice any.
 
- 
+
 
 ## Technologies Used
 
+- HTML
+- CSS
+- GIT AND GITHUB
 
-The coding language used so far id html and css.
-
- 
 ## Support and contact details
 
 
 For support you can email me at mutundu.nguma@gmail.com or call +254725927461, I will appreciate if you can help me do much better in coding.
 
- ## Link to my git repository
+ ## Live link
 
-- https://github.com/ngumamutundu/weekoneIndependentproject.git
+- https://ngumamutundu.github.io/weekoneIndependentproject
 
 
 ### License
