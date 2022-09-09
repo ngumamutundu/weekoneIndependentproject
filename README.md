@@ -41,19 +41,19 @@
 
 ## Technologies Used
 
- 
 
 The coding language used so far id html and css.
 
  
-
 ## Support and contact details
 
- 
 
 For support you can email me at mutundu.nguma@gmail.com or call +254725927461, I will appreciate if you can help me do much better in coding.
 
- 
+ ## Link to my git repository
+
+- https://github.com/ngumamutundu/weekoneIndependentproject.git
+
 
 ### License
 
