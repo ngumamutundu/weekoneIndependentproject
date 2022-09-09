@@ -31,6 +31,10 @@ li {
 img {
   margin: 1px auto;
   display: block;
+  border-style: solid;
+  border-color: peru;
+  border-width: 20px;
+  border-color: cadetblue;
 }
 ul {
   display: table;
