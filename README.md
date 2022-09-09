@@ -1,8 +1,8 @@
-# Pius Nguma Mutundu
+# Pius Nguma Mutundu.
 
  
 
-#### This is a project about Pius Nguma Mutundu a student at Moringa School, Version Date: 9th Sept 2022
+#### This is a project about Pius Nguma Mutundu a student at Moringa School, Version Date: 9th Sept 2022.
 
  
 
@@ -12,7 +12,7 @@
 
 ## Description
 
- The project shows details about what inspire Pius In life , my education back ground from primary to university and the Career growth upto this current year of 2022
+ The project shows details about what inspires Pius In life , my education background from primary to university and the Career growth upto this current year of 2022.
 
  
 
@@ -20,14 +20,14 @@
 
  
 
-- This is very easyfor everyone
+- This is very easyfor everyone.
 
-- Allows you to know more about myself(Pius Nguma Mutundu)
+- Allows you to know more about myself(Pius Nguma Mutundu).
 
-- Shows you the progress of my learning to date
+- Shows you the progress of my learning to date.
 
 
-- Use the hyperlink provided to see my website and the coding used in this project
+- Use the hyperlink provided to see my website and the coding used in this project.
 
  
 
@@ -35,7 +35,7 @@
 
  
 
-- There is kno bug known to me so far, Kindly let me know incase you notice any.
+- There is no bug known to me so far, Kindly let me know incase you notice any.
 
  
 
